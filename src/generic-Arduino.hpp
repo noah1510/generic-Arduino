@@ -1,5 +1,5 @@
 /**
- * @file ArdiunoAbstraction.hpp
+ * @file generic-Arduino.hpp
  * @author Noa Sakurajin (noasakurajin@web.de)
  * @brief An abstraction for Arduino.hpp
  * @version 0.1
