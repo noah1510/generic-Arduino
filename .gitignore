@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# build system
+build
+subprojects/*
+!subprojects/*.wrap
+.cache
